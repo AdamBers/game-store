@@ -1,3 +1,5 @@
+![Header](https://github.com/AdamBers/game-store/blob/658e0e1e739a655444fcf0d2b30fde21c4b135c6/public/game-store.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
