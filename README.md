@@ -1,5 +1,5 @@
 # Game store   
-react, react-redux
+react, react-redux   
 ![Header](https://github.com/AdamBers/game-store/blob/658e0e1e739a655444fcf0d2b30fde21c4b135c6/public/game-store.jpg)   
    
 ![Header](https://github.com/AdamBers/game-store/blob/18537a2beb652ec2a57611bb59b20fdb6f05407b/public/game-store2.jpg)
